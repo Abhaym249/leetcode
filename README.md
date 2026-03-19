@@ -18,4 +18,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->

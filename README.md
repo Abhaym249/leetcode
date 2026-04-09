@@ -17,6 +17,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Abhaym249/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 ## Array
